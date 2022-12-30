@@ -21,7 +21,7 @@
                 }
             }
 
-            if (counter == 0 && i != 1)
+            if (counter==0 && i !=0 )
             {
                 Console.WriteLine(i + " the prime number ");
 

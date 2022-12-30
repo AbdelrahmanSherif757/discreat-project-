@@ -12,7 +12,7 @@ public class project
         Console.Write(" enter the frist number: ");
          fristnumber = int.Parse(Console.ReadLine());
 
-        Console.Write("enter the last number : ");
+        Console.Write("enter the end number : ");
          lastnumber = int.Parse(Console.ReadLine());
 
 
@@ -29,13 +29,12 @@ public class project
             }
             if (sum == n)
             {
-                Console.WriteLine("the perfect numbers :");
-                Console.WriteLine("{0} ", n);
-
+                Console.WriteLine(" the perfect numbers : "+ n);
+                
             }
 
 
         }
-        Console.Write("\n");
+        
     }
 }
