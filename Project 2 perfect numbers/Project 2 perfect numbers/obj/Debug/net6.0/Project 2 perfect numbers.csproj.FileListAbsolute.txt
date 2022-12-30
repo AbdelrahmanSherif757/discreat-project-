@@ -1,0 +1,15 @@
+F:\tasks section 7\project\Project 2 perfect numbers\Project 2 perfect numbers\bin\Debug\net6.0\Project 2 perfect numbers.exe
+F:\tasks section 7\project\Project 2 perfect numbers\Project 2 perfect numbers\bin\Debug\net6.0\Project 2 perfect numbers.deps.json
+F:\tasks section 7\project\Project 2 perfect numbers\Project 2 perfect numbers\bin\Debug\net6.0\Project 2 perfect numbers.runtimeconfig.json
+F:\tasks section 7\project\Project 2 perfect numbers\Project 2 perfect numbers\bin\Debug\net6.0\Project 2 perfect numbers.dll
+F:\tasks section 7\project\Project 2 perfect numbers\Project 2 perfect numbers\bin\Debug\net6.0\Project 2 perfect numbers.pdb
+F:\tasks section 7\project\Project 2 perfect numbers\Project 2 perfect numbers\obj\Debug\net6.0\Project 2 perfect numbers.csproj.AssemblyReference.cache
+F:\tasks section 7\project\Project 2 perfect numbers\Project 2 perfect numbers\obj\Debug\net6.0\Project 2 perfect numbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\tasks section 7\project\Project 2 perfect numbers\Project 2 perfect numbers\obj\Debug\net6.0\Project 2 perfect numbers.AssemblyInfoInputs.cache
+F:\tasks section 7\project\Project 2 perfect numbers\Project 2 perfect numbers\obj\Debug\net6.0\Project 2 perfect numbers.AssemblyInfo.cs
+F:\tasks section 7\project\Project 2 perfect numbers\Project 2 perfect numbers\obj\Debug\net6.0\Project 2 perfect numbers.csproj.CoreCompileInputs.cache
+F:\tasks section 7\project\Project 2 perfect numbers\Project 2 perfect numbers\obj\Debug\net6.0\Project 2 perfect numbers.dll
+F:\tasks section 7\project\Project 2 perfect numbers\Project 2 perfect numbers\obj\Debug\net6.0\refint\Project 2 perfect numbers.dll
+F:\tasks section 7\project\Project 2 perfect numbers\Project 2 perfect numbers\obj\Debug\net6.0\Project 2 perfect numbers.pdb
+F:\tasks section 7\project\Project 2 perfect numbers\Project 2 perfect numbers\obj\Debug\net6.0\Project 2 perfect numbers.genruntimeconfig.cache
+F:\tasks section 7\project\Project 2 perfect numbers\Project 2 perfect numbers\obj\Debug\net6.0\ref\Project 2 perfect numbers.dll
